@@ -56,13 +56,13 @@ Below are a few examples of generated plots (replace with your screenshots):
 
 | Visualization | Preview |
 |----------------|----------|
-| Bar Chart | ![Bar Chart](figures/Bar_Chart1.png) |
-| Bar Chart| ![Bar Chart](figures/Bar_Chart2.png) |
-| Histogram | ![Histogram](figures/Histogram.png) |
-| Boxplot | ![Boxplot](figures/Boxplot.png) |
-| Interactive 3D render | ![Interactive 3D render](figures/Interactive_3D.png) |
-| Numeric_Heatmap | ![Numeric_Heatmap](figures/Numeric_Heatmap.png) |
-| Group_BarChart | ![Group_BarChart](figures/Group_BarChart.png) |
+| Bar Chart | ![Bar Chart](Figures/Bar_Chart1.png) |
+| Bar Chart| ![Bar Chart](Figures/Bar_Chart2.png) |
+| Histogram | ![Histogram](Figures/Histogram.png) |
+| Boxplot | ![Boxplot](Figures/Boxplot.png) |
+| Interactive 3D render | ![Interactive 3D render](Figures/Interactive_3D.png) |
+| Numeric_Heatmap | ![Numeric_Heatmap](Figures/Numeric_Heatmap.png) |
+| Group_BarChart | ![Group_BarChart](Figures/Group_BarChart.png) |
 
 > 🖼️ To insert screenshots, save them in a `figures/` folder and reference them with relative paths as shown above.
 
